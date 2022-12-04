@@ -14,8 +14,8 @@
 постарался уделить больше времени наименее известной теме для меня - разработке пайплайнов и приложения FastAPI
    
 5. Скриншоты:
-<img src="../shot2.png" width="400">
+<img src="../shot2.png" width="550">
 
-<img src="../shot3.png" width="400">
+<img src="../shot3.png" width="550">
    
-<img src="../shot.png" width="400">
+<img src="../shot.png" width="550">
