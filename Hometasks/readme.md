@@ -14,8 +14,8 @@
 постарался уделить больше времени наименее известной теме для меня - разработке пайплайнов и приложения FastAPI
    
 5. Скриншоты:
-<img src="/Users/vlad/repositories/MLDS_ML_2022/Hometasks/shot2.png" >
+<img src="Hometasks/shot2.png" >
 
-<img src="/Users/vlad/repositories/MLDS_ML_2022/Hometasks/shot3.png" width="300">
+<img src="Hometasks/shot3.png" width="300">
    
-<img src="/Users/vlad/repositories/MLDS_ML_2022/Hometasks/shot.png" width="300">
+<img src="Hometasks/shot.png" width="300">
